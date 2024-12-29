@@ -3,6 +3,7 @@ Welcome to git workflow
 
 doing some changes in VS Code
 
+<<<<<<< HEAD
 Fourth lineHello World !!! --> 5th line
 Welcome !
 
@@ -11,3 +12,7 @@ Doing some changes in VS Code
 Hello Welcome !
 
 welcome!
+=======
+Fourth line
+adding new line to test my develop branch !
+>>>>>>> develop
